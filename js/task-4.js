@@ -10,7 +10,7 @@ function getShippingCost(country) {
         case 'Australia':
             price = 170;
                 break;
-        case 'Jamaika':
+        case 'Jamaica':
             price = 120;    
             break;
             
